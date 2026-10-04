@@ -1,0 +1,29 @@
+Origin: SmartCRM
+Label: SmartCRM
+Suite: stable
+Codename: stable
+Date: Sun, 04 Oct 2026 08:55:50 UTC
+Architectures: amd64 arm64 all
+Components: main
+Description: SmartCRM paketlari
+MD5Sum:
+ 15a27ee6c0b5c78b10e65d80cb1324bc              683 main/binary-all/Packages
+ de5a49d6bbd2c14dd128e7f58f9f9d30              496 main/binary-all/Packages.gz
+ 15a27ee6c0b5c78b10e65d80cb1324bc              683 main/binary-amd64/Packages
+ de5a49d6bbd2c14dd128e7f58f9f9d30              496 main/binary-amd64/Packages.gz
+ 15a27ee6c0b5c78b10e65d80cb1324bc              683 main/binary-arm64/Packages
+ de5a49d6bbd2c14dd128e7f58f9f9d30              496 main/binary-arm64/Packages.gz
+SHA1:
+ 2c01bd6a9ebc01e623731556e0486b979d56f313              683 main/binary-all/Packages
+ 50beb9a45d65db86a5751cb167d9ff1300a82e6a              496 main/binary-all/Packages.gz
+ 2c01bd6a9ebc01e623731556e0486b979d56f313              683 main/binary-amd64/Packages
+ 50beb9a45d65db86a5751cb167d9ff1300a82e6a              496 main/binary-amd64/Packages.gz
+ 2c01bd6a9ebc01e623731556e0486b979d56f313              683 main/binary-arm64/Packages
+ 50beb9a45d65db86a5751cb167d9ff1300a82e6a              496 main/binary-arm64/Packages.gz
+SHA256:
+ c407204b42c741dbcac57cd0a3d95787be9d2c9f2f0da545f59ee0ad4e1d04e4              683 main/binary-all/Packages
+ 5af74b97e9eef278111fa0e6e5414759c7ee6deb6175ff34a4cb2fc961c48904              496 main/binary-all/Packages.gz
+ c407204b42c741dbcac57cd0a3d95787be9d2c9f2f0da545f59ee0ad4e1d04e4              683 main/binary-amd64/Packages
+ 5af74b97e9eef278111fa0e6e5414759c7ee6deb6175ff34a4cb2fc961c48904              496 main/binary-amd64/Packages.gz
+ c407204b42c741dbcac57cd0a3d95787be9d2c9f2f0da545f59ee0ad4e1d04e4              683 main/binary-arm64/Packages
+ 5af74b97e9eef278111fa0e6e5414759c7ee6deb6175ff34a4cb2fc961c48904              496 main/binary-arm64/Packages.gz

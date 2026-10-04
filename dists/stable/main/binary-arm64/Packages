@@ -1,0 +1,16 @@
+Package: smartcrm
+Version: 1.0.0
+Architecture: all
+Maintainer: SmartCRM <noreply@smartcrm.local>
+Installed-Size: 3
+Depends: bash, git, curl, ca-certificates, iproute2
+Section: admin
+Priority: optional
+Description: SmartCRM — do'kon kassa va buxgalteriya tizimi o'rnatuvchisi
+ `sudo smartcrm install` kodni yuklab, Docker, baza va HTTPS bilan to'liq tizimni o'rnatadi.
+ Serverdagi mavjud dasturlarga xalaqit bermaydi (bo'sh noyob portlarni o'zi tanlaydi).
+Filename: pool/main/s/smartcrm/smartcrm_1.0.0_all.deb
+Size: 2744
+MD5sum: 176087ec6c8adc6089af182d4ec9aa1f
+SHA1: 5e8b07f9eee5071538e28433e0b8034abe0dc086
+SHA256: afe3c6267e00869420cb12785904264bf0b73ba6e711f0b069ee93d912fd1f50
