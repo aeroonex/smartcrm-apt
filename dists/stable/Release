@@ -2,28 +2,28 @@ Origin: SmartCRM
 Label: SmartCRM
 Suite: stable
 Codename: stable
-Date: Sun, 04 Oct 2026 10:27:54 UTC
+Date: Sun, 04 Oct 2026 17:20:10 UTC
 Architectures: amd64 arm64 all
 Components: main
 Description: SmartCRM paketlari
 MD5Sum:
- eacdd1b9b73f11c3c264d6b61e8fc2f0             2051 main/binary-all/Packages
- 1425106f2fd08427fc88975d10229d6c              727 main/binary-all/Packages.gz
- eacdd1b9b73f11c3c264d6b61e8fc2f0             2051 main/binary-amd64/Packages
- 1425106f2fd08427fc88975d10229d6c              727 main/binary-amd64/Packages.gz
- eacdd1b9b73f11c3c264d6b61e8fc2f0             2051 main/binary-arm64/Packages
- 1425106f2fd08427fc88975d10229d6c              727 main/binary-arm64/Packages.gz
+ c86c3628834e56b7c603a1833e2ec2de             2735 main/binary-all/Packages
+ c5c5a64cdac06e63c33966947c03c766              834 main/binary-all/Packages.gz
+ c86c3628834e56b7c603a1833e2ec2de             2735 main/binary-amd64/Packages
+ c5c5a64cdac06e63c33966947c03c766              834 main/binary-amd64/Packages.gz
+ c86c3628834e56b7c603a1833e2ec2de             2735 main/binary-arm64/Packages
+ c5c5a64cdac06e63c33966947c03c766              834 main/binary-arm64/Packages.gz
 SHA1:
- 13c4c9f1d172fca390f7878dff71ce4a1d362a04             2051 main/binary-all/Packages
- 51f02cb75dd6b7cf23ea958fa7e8c3b79b473e70              727 main/binary-all/Packages.gz
- 13c4c9f1d172fca390f7878dff71ce4a1d362a04             2051 main/binary-amd64/Packages
- 51f02cb75dd6b7cf23ea958fa7e8c3b79b473e70              727 main/binary-amd64/Packages.gz
- 13c4c9f1d172fca390f7878dff71ce4a1d362a04             2051 main/binary-arm64/Packages
- 51f02cb75dd6b7cf23ea958fa7e8c3b79b473e70              727 main/binary-arm64/Packages.gz
+ 2cfad6ba4f0471f9204fd0b9d6bbc250d856e91d             2735 main/binary-all/Packages
+ 76d091810de1e86f75ea72c00630d4b4ceaadec2              834 main/binary-all/Packages.gz
+ 2cfad6ba4f0471f9204fd0b9d6bbc250d856e91d             2735 main/binary-amd64/Packages
+ 76d091810de1e86f75ea72c00630d4b4ceaadec2              834 main/binary-amd64/Packages.gz
+ 2cfad6ba4f0471f9204fd0b9d6bbc250d856e91d             2735 main/binary-arm64/Packages
+ 76d091810de1e86f75ea72c00630d4b4ceaadec2              834 main/binary-arm64/Packages.gz
 SHA256:
- 1f7b39d3d41d891ab050b676640a8964094f1ca05032e8af2e0a0c9b12586643             2051 main/binary-all/Packages
- b801f5b323a87b6da7f06e706e444c6ca147c57053d7abb75d1004e840aba725              727 main/binary-all/Packages.gz
- 1f7b39d3d41d891ab050b676640a8964094f1ca05032e8af2e0a0c9b12586643             2051 main/binary-amd64/Packages
- b801f5b323a87b6da7f06e706e444c6ca147c57053d7abb75d1004e840aba725              727 main/binary-amd64/Packages.gz
- 1f7b39d3d41d891ab050b676640a8964094f1ca05032e8af2e0a0c9b12586643             2051 main/binary-arm64/Packages
- b801f5b323a87b6da7f06e706e444c6ca147c57053d7abb75d1004e840aba725              727 main/binary-arm64/Packages.gz
+ 7c3b831a7a6e6590e2ca99fd5eda7dcdfc6f589216900e595a4afa1a84a33b71             2735 main/binary-all/Packages
+ d7abfc1a29c96a36a7f730215a53b0c81538c797df4dd2bdd6b009ea44dc405f              834 main/binary-all/Packages.gz
+ 7c3b831a7a6e6590e2ca99fd5eda7dcdfc6f589216900e595a4afa1a84a33b71             2735 main/binary-amd64/Packages
+ d7abfc1a29c96a36a7f730215a53b0c81538c797df4dd2bdd6b009ea44dc405f              834 main/binary-amd64/Packages.gz
+ 7c3b831a7a6e6590e2ca99fd5eda7dcdfc6f589216900e595a4afa1a84a33b71             2735 main/binary-arm64/Packages
+ d7abfc1a29c96a36a7f730215a53b0c81538c797df4dd2bdd6b009ea44dc405f              834 main/binary-arm64/Packages.gz
