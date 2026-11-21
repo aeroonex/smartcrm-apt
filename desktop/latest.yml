@@ -1,8 +1,8 @@
-version: 1.1.0
+version: 1.2.0
 files:
   - url: SmartCRM-Kassa-Setup.exe
-    sha512: zlavZslo1dD3O0icM/G2tZUXMsMrcHOMrgiiStDBOWqvCi4DjUmthF2nf3Wp2XmNZ+Gk/WPtL5U0UeJCZhIirQ==
-    size: 82106874
+    sha512: kFCwwrJFCoKJkDWKi32RFuulzmLu8krA5oDQPQlcpqMEnCjWvFZLPfvdDdX6l9IUO3SjRjOy/LJBXk3Z7EA0GQ==
+    size: 82094609
 path: SmartCRM-Kassa-Setup.exe
-sha512: zlavZslo1dD3O0icM/G2tZUXMsMrcHOMrgiiStDBOWqvCi4DjUmthF2nf3Wp2XmNZ+Gk/WPtL5U0UeJCZhIirQ==
-releaseDate: '2026-10-24T13:59:09.303Z'
+sha512: kFCwwrJFCoKJkDWKi32RFuulzmLu8krA5oDQPQlcpqMEnCjWvFZLPfvdDdX6l9IUO3SjRjOy/LJBXk3Z7EA0GQ==
+releaseDate: '2026-11-04T15:58:28.926Z'
